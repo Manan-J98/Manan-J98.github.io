@@ -5,20 +5,20 @@ Master's in Computer Science | Western University, London, ON (Current)
 Bachelor's in Computer Science | Chitkara University (2016 - 2020)
 
 ## WORK EXPERIENCE
-**Teaching Assistant @ Western University, London, ON
-• Recorded video tutorials and held one-on-one sessions with students to improve their coding techniques and proficiency.
-• Collaborated with the professor to review course objectives & assessments, effectively strengthening student comprehension.
-• Assisted in conference calls with instructors & students to provide insight into performance and aid in developing their success strategies, resulting in an increase in student engagement.
+**Teaching Assistant @ Western University, London, ON**
+<br>• Recorded video tutorials and held one-on-one sessions with students to improve their coding techniques and proficiency.
+<br>• Collaborated with the professor to review course objectives & assessments, effectively strengthening student comprehension.
+<br>• Assisted in conference calls with instructors & students to provide insight into performance and aid in developing their success strategies, resulting in an increase in student engagement.
 
-**iOS Developer @ Clicklabs, Panchkula, IN April 2020-August 2022** 
-• Pioneered the development of foundational code for SAAS applications, enabling the team to redeploy code efficiently for rapid feature iteration.
-• Implemented automated testing and streamlined build infrastructure using Fastlane, resulting in approximately 30% reduction in development time.
-• Leveraged GCD queues and implemented optimal architecture (MVP, MVVM, and VIPER) for better multi-core utilization to achieve an average application load time improvement of 27%.
+**iOS Developer @ Clicklabs, Panchkula, IN (April 2020-August 2022)** 
+<br>• Pioneered the development of foundational code for SAAS applications, enabling the team to redeploy code efficiently for rapid feature iteration.
+<br>• Implemented automated testing and streamlined build infrastructure using Fastlane, resulting in approximately 30% reduction in development time.
+<br>• Leveraged GCD queues and implemented optimal architecture (MVP, MVVM, and VIPER) for better multi-core utilization to achieve an average application load time improvement of 27%.
 
-**Software Intern @ Clicklabs, Panchkula, IN Apr 2019 - Apr 2020**
-• Developed iOS applications using Swift 5, applying object-oriented programming principles.
-• Enhanced the user interface design of a marketplace application, significantly improving user experience and retention.
-• Contributed to the migration of software to Swift 5 and automated language localization.
+**Software Intern @ Clicklabs, Panchkula, IN (Apr 2019 - Apr 2020)**
+<br>• Developed iOS applications using Swift 5, applying object-oriented programming principles.
+<br>• Enhanced the user interface design of a marketplace application, significantly improving user experience and retention.
+<br>• Contributed to the migration of software to Swift 5 and automated language localization.
 
 ## PROJECTS
 **Alpha Healthcare, 2020** - Designed and implemented a secure and scalable mobile healthcare solution within budget constraints, meeting HIPAA standards; Utilized open-source encryption libraries, ensuring data security, and saved ~15% of project costs.
